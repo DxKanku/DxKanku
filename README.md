@@ -2,9 +2,9 @@
 
 ![QA Engineer](https://img.shields.io/badge/Role-QA_Engineer-blue?style=flat-square&logo=test-tube)
 
-Hi! My name is Konstantin.
+**🔗 Hi! My name is Konstantin.**
 
-I’m a junior QA engineer with basic experience in testing mobile and web applications. I focus on manual testing, want to start learning automation, and aim to participate in the full software quality assurance cycle.
+**🔗 I’m a junior QA engineer with basic experience in testing mobile and web applications. I focus on manual testing, want to start learning automation, and aim to participate in the full software quality assurance cycle.**
 
 ## Key competencies
 
@@ -27,8 +27,7 @@ I’m a junior QA engineer with basic experience in testing mobile and web appli
 - 🧩 Writing simple queries
 - 🔗 Verifying data integrity and analysing table relationships
 
-## My approach to testing
-
+### My approach to testing
 <div style="display: flex; gap: 15px;">
   <div style="flex: 1; background-color: #f0f8ff; padding: 10px; border-radius: 8px;">
     **Attention to detail**  
@@ -42,11 +41,11 @@ I’m a junior QA engineer with basic experience in testing mobile and web appli
 
 <div style="margin-top: 15px; display: flex; gap: 15px;">
   <div style="flex: 1; background-color: #f0fff0; padding: 10px; border-radius: 8px;">
-    **Communication**  
+    **Communication** 
     Writing bug reports so developers can quickly reproduce issues (steps, screenshots, logs, videos).
   </div>
   <div style="flex: 1; background-color: #fffff0; padding: 10px; border-radius: 8px;">
-    **Flexibility**  
+    **Flexibility** 
     Ready to learn new tools (e.g., Python, Appium).
   </div>
 </div>
