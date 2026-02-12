@@ -68,11 +68,3 @@ I’m a junior QA engineer with basic experience in testing mobile and web appli
     <li>Participate in high‑quality projects (fintech, e‑commerce)</li>
   </ul>
 </div>
-
-## Get in touch
-
-<div align="center" style="margin-top: 20px;">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-  [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-</div>
